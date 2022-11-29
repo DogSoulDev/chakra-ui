@@ -1,5 +1,19 @@
 # Change Log
 
+## 2.4.3
+
+### Patch Changes
+
+- Updated dependencies
+  [[`43aba8ac8`](https://github.com/chakra-ui/chakra-ui/commit/43aba8ac88dc729b17ae7474b42f82642fe5a15f),
+  [`1025a88eb`](https://github.com/chakra-ui/chakra-ui/commit/1025a88eb428adea2797c57a756ea513a6d50762)]:
+  - @chakra-ui/card@2.1.2
+  - @chakra-ui/modal@2.2.5
+  - @chakra-ui/accordion@2.1.4
+  - @chakra-ui/menu@2.1.5
+  - @chakra-ui/tabs@2.1.5
+  - @chakra-ui/tooltip@2.2.2
+
 ## 2.4.2
 
 ### Patch Changes

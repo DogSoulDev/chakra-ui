@@ -1,5 +1,14 @@
 # Change Log
 
+## 2.2.5
+
+### Patch Changes
+
+- [#7054](https://github.com/chakra-ui/chakra-ui/pull/7054)
+  [`1025a88eb`](https://github.com/chakra-ui/chakra-ui/commit/1025a88eb428adea2797c57a756ea513a6d50762)
+  Thanks [@lexanth](https://github.com/lexanth)! - Update modal a11y unit tests
+  to correctly cover the portal
+
 ## 2.2.4
 
 ### Patch Changes
